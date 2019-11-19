@@ -8,7 +8,6 @@ if (!searchParams.has('escritorio')) {
 }
 
 var escritorio = searchParams.get('escritorio');
-console.log(escritorio);
 var label = $('small');
 
 
